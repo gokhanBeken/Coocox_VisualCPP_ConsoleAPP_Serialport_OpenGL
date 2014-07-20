@@ -1,0 +1,26 @@
+﻿Build started 20.7.2014 07:42:16.
+     1>Project "C:\Users\gokhan\Desktop\csharp-console-serialport\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_UNICODE" /D "UNICODE" /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib ConsoleApplication3.cpp
+         ConsoleApplication3.cpp
+     1>ConsoleApplication3.cpp(150): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(164): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(173): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(179): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(185): warning C4018: '<' : signed/unsigned mismatch
+     1>ConsoleApplication3.cpp(256): warning C4101: 'bilgi' : unreferenced local variable
+     1>ConsoleApplication3.cpp(259): warning C4101: 'gelenVeri' : unreferenced local variable
+     1>ConsoleApplication3.cpp(542): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gokhan\Desktop\csharp-console-serialport\ConsoleApplication3\Debug\ConsoleApplication3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\gokhan\Desktop\csharp-console-serialport\ConsoleApplication3\Debug\ConsoleApplication3.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         "Debug\AssemblyInfo.obj"
+         Debug\ConsoleApplication3.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         ConsoleApplication3.vcxproj -> C:\Users\gokhan\Desktop\csharp-console-serialport\ConsoleApplication3\Debug\ConsoleApplication3.exe
+     1>Done Building Project "C:\Users\gokhan\Desktop\csharp-console-serialport\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
